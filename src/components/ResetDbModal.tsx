@@ -44,7 +44,7 @@ export const ResetDbModal: React.FC<ResetDbModalProps> = ({
           Reset Database ke Data Bawaan?
         </h3>
         <p className="text-xs text-slate-600 text-center mt-2 leading-relaxed">
-          Semua perubahan CRUD pada armada kapal, manifest muatan, dan jadwal akan dikembalikan ke data resmi awal Samudera Raya Lines.
+          Semua perubahan CRUD pada armada kapal, manifest muatan, dan jadwal akan dikembalikan ke data resmi awal JAVARA LINES.
         </p>
 
         <div className="mt-6 flex items-center justify-center gap-3">

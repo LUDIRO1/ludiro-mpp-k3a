@@ -175,7 +175,7 @@ export async function shippingApiMiddleware(req: IncomingMessage, res: ServerRes
     // 4. DATABASE RESET
     if (cleanUrl === '/api/db/reset' && req.method === 'POST') {
       dbInstance.resetToDefaultSeed();
-      return sendJson(res, 200, { success: true, message: 'Database berhasil di-reset ke data bawaan resmi Samudera Raya Lines.' });
+      return sendJson(res, 200, { success: true, message: 'Database berhasil di-reset ke data bawaan resmi JAVARA LINES.' });
     }
 
     // 5. VESSELS CRUD
