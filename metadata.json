@@ -1,0 +1,6 @@
+{
+  "name": "Samudera Raya Lines - Manajemen Pelayaran",
+  "description": "Sistem ERP maritim komprehensif untuk pengelolaan armada kapal, manifest muatan kargo, jadwal pelayaran, dan kru kapal dengan database persisten real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
